@@ -41,7 +41,7 @@ namespace task_01_08
             }
 
             //выводим анкетные данные в диалоговое окно
-            MessageBox.Show(strMessage, "Анкетные данные");
+            MessageBox.Show(strMessage, "Анкетные данные!!!!!!");
         }
     }
 }
