@@ -16,6 +16,5 @@ namespace task_01_04
         {
             InitializeComponent();
         }
-
     }
 }
