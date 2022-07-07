@@ -46,6 +46,5 @@ namespace task_01_05
             String caption = "Клик мыши";
             MessageBox.Show(message, caption, MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
-
     }
 }
